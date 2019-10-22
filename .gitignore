@@ -1,0 +1,12 @@
+/celerybeat-schedule
+/media/*
+/config/local/secrets.json
+/config/prod/secrets.json
+/congig/beta/secrets.json
+.idea/*
+*.pyc
+__pycache__
+*.pc
+*.pyo
+*.DS_Store
+/venv/*
